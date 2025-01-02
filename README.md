@@ -12,7 +12,7 @@ This project uses machine learning techniques to implement a Speech Emotion Reco
 ## Installation
 -  Clone the GitHub repository and install the required dependencies
    ```bash
-   git clone https://github.com/yourusername/Speech_Emotion_Recognition.git
+   git clone https://github.com/Harsh1852/Speech_Emotion_Recoginition.git
    cd Speech_Emotion_Recognition
    pip install -r requirements.txt
    ```
